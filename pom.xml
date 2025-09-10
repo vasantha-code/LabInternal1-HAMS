@@ -21,14 +21,14 @@
 
     <dependencies>
         
-        <dependency>
-            <groupId>jakarta.servlet</groupId>
-            <artifactId>jakarta.servlet-api</artifactId>
-            <scope>provided</scope>
-        </dependency>
+         <!-- Servlet API -->
+           <!-- ADD SERVLET API -->
+    <!-- https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->
+
 
         
         <dependency>
+             <!-- JSP API -->
             <groupId>jakarta.servlet.jsp</groupId>
             <artifactId>jakarta.servlet.jsp-api</artifactId>
             <version>3.1.1</version>
